@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshkuruba
 - 👀 I’m interested in exploring new ideas
-- 🌱 I’m currently learning python and ML
+- 🌱 I’m currently learning Coding in Java
 - 💞️ I’m looking to collaborate on my technical skills
 - 📫 How to reach me gani007k@gmail.com
 
